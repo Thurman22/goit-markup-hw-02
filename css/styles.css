@@ -16,7 +16,7 @@ ul {
     color:#F4F4FD
 }
 
-section {
+section  {
     background-color: #2E2F42;
 }
 
@@ -32,6 +32,6 @@ div {
 .menuitem:hover {
     color: tomato    
 }
-.buttton {
+.section-buttton {
     cursor:pointer
 }
